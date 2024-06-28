@@ -10,6 +10,11 @@
     "location": "Delhi, Delhi"
   },
   {
+    "title": "Node js developer",
+    "company": "Mairotics Technologies Pvt Ltd",
+    "location": "Delhi, Delhi"
+  },
+  {
     "title": "Vue JS Developer or frontend developer required in Rohini Delhi",
     "company": "Ok Software Solutions",
     "location": "Delhi, Delhi"
@@ -20,18 +25,13 @@
     "location": "Delhi, Delhi"
   },
   {
-    "title": "Node js developer",
-    "company": "Mairotics Technologies Pvt Ltd",
-    "location": "Delhi, Delhi"
-  },
-  {
     "title": "PHP Developer Intern",
     "company": "CCN News 24",
     "location": "Rohini, Delhi, Delhi"
   },
   {
-    "title": "PHP Web Developer",
-    "company": "WEBSUPPORTS SERVICES",
+    "title": "Flutter Developer",
+    "company": "Mairotics Technologies Pvt Ltd",
     "location": "Delhi, Delhi"
   },
   {
@@ -45,13 +45,18 @@
     "location": "Delhi, Delhi"
   },
   {
-    "title": "Software Developer - PHP",
-    "company": "Regnant Technologies",
+    "title": "PHP Web Developer",
+    "company": "WEBSUPPORTS SERVICES",
     "location": "Delhi, Delhi"
   },
   {
-    "title": "Laravel Developer",
-    "company": "Mairotics Technologies Pvt Ltd",
+    "title": "PHP Developer",
+    "company": "WEBSUPPORTS SERVICES",
+    "location": "Delhi, Delhi"
+  },
+  {
+    "title": "Software Developer - PHP",
+    "company": "Regnant Technologies",
     "location": "Delhi, Delhi"
   },
   {
@@ -60,18 +65,13 @@
     "location": "East of Kailash, Delhi, Delhi"
   },
   {
-    "title": "Software Developer L1",
-    "company": "Sujata Computers",
-    "location": "Delhi, Delhi"
-  },
-  {
-    "title": "Junior Software Developer (Java Full Stack)",
-    "company": "go4WorldBusiness.com",
-    "location": "Delhi, Delhi"
-  },
-  {
-    "title": "Web Developer - PHP",
+    "title": "Web Developer - ASP.NET",
     "company": "Exact IT Solutions",
+    "location": "Delhi, Delhi"
+  },
+  {
+    "title": "Laravel Developer",
+    "company": "Mairotics Technologies Pvt Ltd",
     "location": "Delhi, Delhi"
   }
 ]

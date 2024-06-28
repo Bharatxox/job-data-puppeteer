@@ -1,6 +1,7 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 const path = require("path");
+const xlsx = require("xlsx");
 
 (async () => {
   // Launch the browser and open a new blank page
@@ -75,6 +76,15 @@ const path = require("path");
       // console.log(title, company, location);
     }
   }
+
+  const workbook = xlsx.utils.book_new();
+  const worksheet = xlsx.utils.json_to_sheet(items);
+
+  // Add the worksheet to the workbook
+  xlsx.utils.book_append_sheet(workbook, worksheet, "Jobs");
+
+  // Write the workbook to a file
+  xlsx.writeFile(workbook, path.join(__dirname, "jobs.xlsx"));
 
   // try {
   //   await page.waitForSelector(".css-akkh0a .e8ju0x50", {
